@@ -49,5 +49,4 @@ if textToSearchThrough.lowercased().contains(textToSearchFor) {
  */
 let myName = "James"
 let count = myName.count
-
 //: [Previous](@previous)  |  page 4 of 5  |  [Next: App Exercise - Password Entry and User Search](@next)

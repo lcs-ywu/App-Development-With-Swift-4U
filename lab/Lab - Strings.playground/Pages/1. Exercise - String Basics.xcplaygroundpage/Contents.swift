@@ -21,6 +21,8 @@ print(favoriteQuote)
  Write an if-else statement that prints "There's nothing here" if `emptyString` is empty, and "It's not as empty as I thought" otherwise.
  */
 let emptyString = ""
+//If emptyString.count = 0
+//If emptyString == ""
 if emptyString.isEmpty {
     print("There's nothing here")
 }else{print("It's not as empty as I thought")}
